@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kick-counter-monitor/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/kick-counter-monitor/static/js/main.8961209e.chunk.js",
-    "main.js.map": "/kick-counter-monitor/static/js/main.8961209e.chunk.js.map",
-    "runtime~main.js": "/kick-counter-monitor/static/js/runtime~main.063962c7.js",
-    "runtime~main.js.map": "/kick-counter-monitor/static/js/runtime~main.063962c7.js.map",
-    "static/js/2.38fec76d.chunk.js": "/kick-counter-monitor/static/js/2.38fec76d.chunk.js",
-    "static/js/2.38fec76d.chunk.js.map": "/kick-counter-monitor/static/js/2.38fec76d.chunk.js.map",
-    "static/js/3.1b3c587a.chunk.js": "/kick-counter-monitor/static/js/3.1b3c587a.chunk.js",
-    "static/js/3.1b3c587a.chunk.js.map": "/kick-counter-monitor/static/js/3.1b3c587a.chunk.js.map",
-    "index.html": "/kick-counter-monitor/index.html",
-    "precache-manifest.671f96780ae05d117e38618a1ccac342.js": "/kick-counter-monitor/precache-manifest.671f96780ae05d117e38618a1ccac342.js",
-    "service-worker.js": "/kick-counter-monitor/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/kick-counter-monitor/static/css/main.5ecd60fb.chunk.css.map"
+    "main.css": "/KickCountMonitor/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/KickCountMonitor/static/js/main.8961209e.chunk.js",
+    "main.js.map": "/KickCountMonitor/static/js/main.8961209e.chunk.js.map",
+    "runtime~main.js": "/KickCountMonitor/static/js/runtime~main.001b3324.js",
+    "runtime~main.js.map": "/KickCountMonitor/static/js/runtime~main.001b3324.js.map",
+    "static/js/2.38fec76d.chunk.js": "/KickCountMonitor/static/js/2.38fec76d.chunk.js",
+    "static/js/2.38fec76d.chunk.js.map": "/KickCountMonitor/static/js/2.38fec76d.chunk.js.map",
+    "static/js/3.1b3c587a.chunk.js": "/KickCountMonitor/static/js/3.1b3c587a.chunk.js",
+    "static/js/3.1b3c587a.chunk.js.map": "/KickCountMonitor/static/js/3.1b3c587a.chunk.js.map",
+    "index.html": "/KickCountMonitor/index.html",
+    "precache-manifest.a026a0d7be3093233a449f473f751598.js": "/KickCountMonitor/precache-manifest.a026a0d7be3093233a449f473f751598.js",
+    "service-worker.js": "/KickCountMonitor/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/KickCountMonitor/static/css/main.5ecd60fb.chunk.css.map"
   }
 }
